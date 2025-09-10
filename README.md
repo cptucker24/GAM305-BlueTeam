@@ -16,9 +16,9 @@ Beta Stage:
 
 
 Roles:
-Lead: 
+Lead: Catarena "Cat" Tucker 
 
-Programmer: 
+Programmer: Catarena "Cat" Tucker
 
 Artist: Tyler B
 
@@ -32,6 +32,8 @@ Team communication preferrences:
 Tyler B: Text
 
 Tony D: Text/Voice
+
+Cat T: Text/Voice
 
 Team communication frequency:
 
