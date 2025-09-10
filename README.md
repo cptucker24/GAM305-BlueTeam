@@ -20,11 +20,11 @@ Lead:
 Programmer: 
 Artist: Tyler B
 Level Design: Tyler B/
-UI/UX: 
+UI/UX: Anthony (Tony) Domine
 
 Team communication preferrences:
 Tyler B: Text
-
+Tony D: Text/Voice
 
 Team communication frequency:
 As often as necessary via text, schedule out voice calls as needed.
