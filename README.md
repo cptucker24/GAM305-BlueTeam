@@ -20,7 +20,7 @@ Lead: Catarena "Cat" Tucker
 
 Programmer: Catarena "Cat" Tucker
 
-Artist: Tyler B
+Artist: Michael M
 
 Level Design: Tyler B
 
