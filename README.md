@@ -44,3 +44,10 @@ As often as necessary via text, schedule out voice calls as needed.
 
 Assigning and reporting of tasks will occur mainly on group chat and traceability matrix. If you need someone in another department to add something, please inform them in the Discord chat and add it to the matrix.
 
+
+Features and responsible party:
+Jump pad: Tyler(Assuming this would fall under level design?)
+Keycard: Tyler
+Minimap: 
+Virus Reproduction: 
+Pickups: 
