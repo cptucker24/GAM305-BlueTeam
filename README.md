@@ -35,6 +35,8 @@ Tony D: Text/Voice
 
 Cat T: Text/Voice
 
+Michael M: Text/Voice
+
 Team communication frequency:
 
 As often as necessary via text, schedule out voice calls as needed.
