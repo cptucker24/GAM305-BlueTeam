@@ -1,4 +1,4 @@
-# GAM305-BlueTeam
+# Module Two Team Project Plan
 
 Final Project due: Oct 19th 2025
 
