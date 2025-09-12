@@ -33,8 +33,6 @@ Assigning and reporting of tasks will occur mainly on group chat and traceabilit
 
 Features and responsible party:
 Jump pad: Tyler (Assuming this would fall under level design?)
-Keycard: Tyler
+Pickups (Keycard): Tyler
 Minimap & Other UI Elements: Tony
 Virus Reproduction: Cat
-
-Pickups: 
