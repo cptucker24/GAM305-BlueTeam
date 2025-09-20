@@ -59,6 +59,7 @@ Checking the code release demo with the test plan<br>
 - Keycards
 - Virus reproductivity
 - Doors<br>
+
 **How will you update the test plan to reflect changes to the game and design document?**
 Any and all additional features, mechanics, or assets will be recorded within the Test Plan sheet to consistently reflect the game as is.<br>
 **How will bugs be reported and how will the bugs and their changes be tracked over time?**
