@@ -53,11 +53,12 @@ Testing before marketing will demo the project<br>
 **Code Release:**
 Checking the code release demo with the test plan<br>
 **What items will be tested? Include a checklist of items to be tested (Pass/Fail).**<br>
-- Character movement
+- Player Character movement
+- Enemy Character Movement
 - Jump Pads
 - Minimap (& UI elements)
 - Keycards
-- Virus reproductivity
+- Virus (Enemy) reproductivity
 - Doors<br>
 
 **How will you update the test plan to reflect changes to the game and design document?**
