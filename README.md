@@ -76,5 +76,8 @@ Level design: Checking for holes in collision of the map, layout design and manu
 Keycards: Ensure that they enable the ability to open locked doors.<br>
 Jump pad: Applies the right amount of force, consistently no matter how the player is interacting with it.<br>
 Sphincter muscle-shaped door: Ensure animation for opening and closing works based on distance (until introducing keycards).
+Player Character: Player Character inputs for movement, interactions, and jump.
+AI Character: Ensure AI Character is set up with Behavior Tree.
+AI Character Respawn: Ensure AI Character can respawn after a certain period due to losing health.
 
 How to report bugs and track changes: Tracability Matrix under "Test Plan" sheet.
