@@ -21,7 +21,7 @@ Artist: Michael M<br>
 Level Design: Tyler B<br>
 UI/UX: Anthony (Tony) Domine
 
-**Team Communication Creferrences**<br>
+**Team Communication Preferences**<br>
 Tyler B: Text<br>
 Tony D: Text/Voice<br>
 Cat T: Text/Voice<br>
@@ -44,34 +44,24 @@ Alpha: Due Sept 28th<br>
 Tyler: I will have a basic concept for level design, with functional doors, jump pads and a place for the player to move about illustrating the style that we will go for. This will be completed by Sept 24th.
 
 **Play Test**<br>
-Tyler: Once the basic test level is built, we can collectively play, test and provide feedback on each other's roles for changes to be made.
+Tyler: Once the basic test level is built, we can collectively play, test, and provide feedback on each other's roles for changes to be made.
+
+<hr>
 
 **Module Three Project Log - Team Development: QA and Testing Plan**<br>
 Prompt: As a game development team, devise a plan for quality assurance and testing your product. Begin by determining a preferred means of communication and a collaborative method to develop your document.<br>
-**Demo:**
-Testing before marketing will demo the project<br>
-**Code Release:**
-Checking the code release demo with the test plan<br>
-**What items will be tested? Include a checklist of items to be tested (Pass/Fail).**<br>
-- Player Character movement
-- Enemy Character Movement
-- Jump Pads
-- Minimap, Menu screen, Healthbar (For Player & potentially AI)
-- Keycards
-- Virus (Enemy) reproductivity
-- Doors<br>
 
-**How will you update the test plan to reflect changes to the game and design document?**
+**How will you update the test plan to reflect changes to the game and design document?**<br>
 Any and all additional features, mechanics, or assets will be recorded within the Test Plan sheet to consistently reflect the game as is.<br>
-**How will bugs be reported and how will the bugs and their changes be tracked over time?**
-Discord and Traceability Matrix
+**How will bugs be reported and how will the bugs and their changes be tracked over time?**<br>
+Communication via Discord and Tracability Matrix under "Test Plan" sheet.
 
-Schedule: Varies amongst members; congregate as necessary.<br>
-Play Test: <br>
-Demo: <br>
-Code Release: 
+Schedule: Varies amongst members (tasks are completed in free time); congregate as necessary.<br>
+Play Test: Following the Demo process, although similar, it requires a more arbitrary approach to intentionally discover bugs & glitches to prevent future errors.<br>
+Demo: Members, after each developmental success in their own task, will experiment with their product's functionality as intended.<br>
+Code Release: Pertaining to updating files through GitHub, all game modifications - either insertions or deletions - are first uploaded to a separate branch and confirmed with other members before merging it with the Main/Master. (Closest to the Continuous Deployment Strategy?)
 
-**Features to be Tested Checklist (Pass/Fail)**<br>
+**Features to be Tested Checklist (Pass/Fail):**<br>
 Level design: Checking for holes in collision of the map, layout design and manueverability.<br>
 Keycards: Ensure that they enable the ability to open locked doors.<br>
 Jump pad: Applies the right amount of force, consistently no matter how the player is interacting with it.<br>
@@ -79,6 +69,4 @@ Sphincter muscle-shaped door: Ensure animation for opening and closing works bas
 Player Character: Player Character inputs for movement, interactions, and jump.<br>
 AI Character: Ensure AI Character is set up with Behavior Tree.<br>
 AI Character Respawn: Ensure AI Character can respawn after a certain period due to losing health.<br>
-UI Elements will be tested as pass/fail by running game from start (menu), then interacting with the world (damage for healthbars, and minimap on screen to track enemies/world)<br>
-
-How to report bugs and track changes: Tracability Matrix under "Test Plan" sheet.
+UI Elements: Running game from start (menu), then interacting with the world (damage for healthbars, and minimap on screen to track enemies/world).
