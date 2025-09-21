@@ -56,7 +56,7 @@ Checking the code release demo with the test plan<br>
 - Player Character movement
 - Enemy Character Movement
 - Jump Pads
-- Minimap (& UI elements)
+- Minimap, Menu screen, Healthbar (For Player & potentially AI)
 - Keycards
 - Virus (Enemy) reproductivity
 - Doors<br>
@@ -79,5 +79,6 @@ Sphincter muscle-shaped door: Ensure animation for opening and closing works bas
 Player Character: Player Character inputs for movement, interactions, and jump.<br>
 AI Character: Ensure AI Character is set up with Behavior Tree.<br>
 AI Character Respawn: Ensure AI Character can respawn after a certain period due to losing health.
+UI Elements will be tested as pass/fail by running game from start (menu), then interacting with the world (damage for healthbars, and minimap on screen to track enemies/world)
 
 How to report bugs and track changes: Tracability Matrix under "Test Plan" sheet.
