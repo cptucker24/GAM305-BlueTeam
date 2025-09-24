@@ -70,3 +70,6 @@ Player Character: Player Character inputs for movement, interactions, and jump.<
 AI Character: Ensure AI Character is set up with Behavior Tree.<br>
 AI Character Respawn: Ensure AI Character can respawn after a certain period due to losing health.<br>
 UI Elements: Running game from start (menu), then interacting with the world (damage for healthbars, and minimap on screen to track enemies/world).
+<br><br>
+**Pickups:**<br>
+Keycards: Complete(TB)<br>
