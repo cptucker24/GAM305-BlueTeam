@@ -14,56 +14,59 @@ Alpha Stage due: Sept 28th
 
 Beta Stage due: N/A
 
-Roles:
-Lead: Catarena "Cat" Tucker 
-Programmer: Catarena "Cat" Tucker
-Artist: Michael M
-Level Design: Tyler B
+**Roles**<br>
+Lead: Catarena "Cat" Tucker<br>
+Programmer: Catarena "Cat" Tucker<br>
+Artist: Michael M<br>
+Level Design: Tyler B<br>
 UI/UX: Anthony (Tony) Domine
 
-Team communication preferrences:
-Tyler B: Text
-Tony D: Text/Voice
-Cat T: Text/Voice
+**Team Communication Preferences**<br>
+Tyler B: Text<br>
+Tony D: Text/Voice<br>
+Cat T: Text/Voice<br>
 Michael M: Text/Voice
 
-Team communication frequency:
+**Team Communication Frequency**<br>
 As often as necessary via text, schedule out voice calls as needed.
 
 Assigning and reporting of tasks will occur mainly on group chat and traceability matrix. If you need someone in another department to add something, please inform them in the Discord chat and add it to the matrix.
 
-Features and responsible party:
-Jump pad: Tyler (Assuming this would fall under level design?)
-Pickups (Keycard): Tyler
-Minimap & Other UI Elements: Tony
-Virus Reproduction: Cat
+**Features & Assigned Tasks**<br>
+Jump pad: Tyler<br>
+Pickups (Keycard): Tyler<br>
+Minimap & Other UI Elements: Tony<br>
+Virus Reproduction: Cat<br>
+Miscellaneous: Michael
 
+**Schedule**<br>
+Alpha: Due Sept 28th<br>
+Tyler: I will have a basic concept for level design, with functional doors, jump pads and a place for the player to move about illustrating the style that we will go for. This will be completed by Sept 24th.
 
-Module Three Project Log - Team Development: QA and Testing Plan:
-Prompt
-As a game development team, devise a plan for quality assurance and testing your product. Begin by determining a preferred means of communication and a collaborative method to develop your document.
+**Play Test**<br>
+Tyler: Once the basic test level is built, we can collectively play, test, and provide feedback on each other's roles for changes to be made.
 
-Develop a plan for quality assurance and testing your product. In your plan, be sure to include the following:
+<hr>
 
-How will you test objects, levels, and games during the development cycle? Develop a schedule and include:
-Play Test: Testing during the preproduction stage
-Demo: Testing before marketing will demo the project
-Code Release: Checking the code release demo with the test plan
-What items will be tested? Include a checklist of items to be tested (pass/fail).
-How will you update the test plan to reflect changes to the game and design document?
-How will bugs be reported?
-How will the bugs and their changes be tracked over time?
+**Module Three Project Log - Team Development: QA and Testing Plan**<br>
+Prompt: As a game development team, devise a plan for quality assurance and testing your product. Begin by determining a preferred means of communication and a collaborative method to develop your document.<br>
 
+**How will you update the test plan to reflect changes to the game and design document?**<br>
+Any and all additional features, mechanics, or assets will be recorded within the Test Plan sheet to consistently reflect the game as is.<br>
+**How will bugs be reported and how will the bugs and their changes be tracked over time?**<br>
+Communication via Discord and Tracability Matrix under "Test Plan" sheet.
 
-Schedule:
-Play Test: 
-Demo: 
-Code Release: 
+Schedule: Varies amongst members (tasks are completed in free time); congregate as necessary.<br>
+Play Test: Following the Demo process, although similar, it requires a more arbitrary approach to intentionally discover bugs & glitches to prevent future errors.<br>
+Demo: Members, after each developmental success in their own task, will experiment with their product's functionality as intended.<br>
+Code Release: Pertaining to updating files through GitHub, all game modifications - either insertions or deletions - are first uploaded to a separate branch and confirmed with other members before merging it with the Main/Master. (Closest to the Continuous Deployment Strategy?)
 
-Checklist of items to be tested:(pass/fail)
-Level design: Checking for holes in collision of the map, layout design and manueverability.
-Keycards: Ensure that they enable the ability to open locked doors.
-Jump pad: Applies the right amount of force, consistently no matter how the player is interacting with it.
-
-
-How to report bugs and track changes: Tracability Matrix, it has a section just for that.
+**Features to be Tested Checklist (Pass/Fail):**<br>
+Level design: Checking for holes in collision of the map, layout design and manueverability.<br>
+Keycards: Ensure that they enable the ability to open locked doors.<br>
+Jump pad: Applies the right amount of force, consistently no matter how the player is interacting with it.<br>
+Sphincter muscle-shaped door: Ensure animation for opening and closing works based on distance (until introducing keycards).<br>
+Player Character: Player Character inputs for movement, interactions, and jump.<br>
+AI Character: Ensure AI Character is set up with Behavior Tree.<br>
+AI Character Respawn: Ensure AI Character can respawn after a certain period due to losing health.<br>
+UI Elements: Running game from start (menu), then interacting with the world (damage for healthbars, and minimap on screen to track enemies/world).
