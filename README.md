@@ -73,3 +73,16 @@ UI Elements: Running game from start (menu), then interacting with the world (da
 <br><br>
 **Pickups:**<br>
 Keycards: Complete(TB)<br>
+
+**Module Four Project Log - Team Reflection**<br>
+**What parts of the testing process did the team perceive to go well?**<br>
+
+**How were bugs identified and corrected?**<br>
+While testing a simple animation for the doors, it would open initially when entering range, but soon stop working, then work again. I realized that I was trying to made two separate animative functions because of a previous, minor issue (so I was testing what went wrong): one for opening when the player enters the range, and one for closing when the player leaves. After discovering the initial problem, I scrapped the latter and connected both events to the same Timeline function node. One event played it forward, and the other played it backward.
+**In terms of the QA and testing process, what would you do differently to improve the process?**<br>
+
+**What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?**<br>
+
+**Were there any tools or techniques that you did not find helpful in the success of your project development? Why?**<br>
+
+**How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?**<br>
