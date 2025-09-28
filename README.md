@@ -76,13 +76,20 @@ Keycards: Complete(TB)<br>
 
 **Module Four Project Log - Team Reflection**<br>
 **What parts of the testing process did the team perceive to go well?**<br>
+Tyler: General testing seemed to go fine in my opinion. We are bound to find bumps in the road but overall, we got things fixed up just fine.<br>
 
 **How were bugs identified and corrected?**<br>
-While testing a simple animation for the doors, it would open initially when entering range, but soon stop working, then work again. I realized that I was trying to made two separate animative functions because of a previous, minor issue (so I was testing what went wrong): one for opening when the player enters the range, and one for closing when the player leaves. After discovering the initial problem, I scrapped the latter and connected both events to the same Timeline function node. One event played it forward, and the other played it backward.
+While testing a simple animation for the doors, it would open initially when entering range, but soon stop working, then work again. I realized that I was trying to made two separate animative functions because of a previous, minor issue (so I was testing what went wrong): one for opening when the player enters the range, and one for closing when the player leaves. After discovering the initial problem, I scrapped the latter and connected both events to the same Timeline function node. One event played it forward, and the other played it backward.<br>
+Tyler: While testing out and building the level design, I ran into an issue where nothing had collision detection. This was solved by finding the setting that determines the collision type. Normally, this defaults to simple collision, but was generating all geometry to no collision. Simple fix but a good experience in learning to not expect the engine to always behave the same way every time.
+Furthermore, another issue came from the character rebuilds that were done. Simple relinks to fix most issues but building the project failed because the old file was still present. I assumed that when the previous file was deleted in engine, it deleted it off my HDD as well but I think it remained on the project.<br>
 **In terms of the QA and testing process, what would you do differently to improve the process?**<br>
+Tyler: More organization and defined roles and expectations within the team so we all test the same things at different phases. Different hardware will give us different results and that is important for testing.<br><br>
 
 **What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?**<br>
+Tyler: I still prefer the matrix that we set up in the beginning but find that it was significantly under utilized.<br>
 
 **Were there any tools or techniques that you did not find helpful in the success of your project development? Why?**<br>
-
+Tyler: The ReadMe. The information in here is not readily available and is generally not convienant to access.<br>
+<br>
 **How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?**<br>
+Tyler: I think mainly it was breaking down the requirements of the end project and deciding what we need from there then speaking about what we did in previous classes to stay organized.<br>
