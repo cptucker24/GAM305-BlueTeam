@@ -96,14 +96,12 @@ Cat: I would try to incorporate test passes for each blueprint, such as if the A
 **What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?**<br>
 Tyler: I still prefer the matrix that we set up in the beginning but find that it was significantly under utilized.<br>
 Tony: During the development, I also found using the traceability matrix helped organize thoughts and see what needs to be done on my end. This along with many past and newly found tutorial videos, have helped remember/implement different features into the project.<br>
-Cat: I prefer using the Traceablility Matrix to keep up with all testing and phases of development, as well as utilizing the tutorial videos from my previous classes and those that my teammates have provided to assist me.
-
+Cat: I prefer using the Traceablility Matrix to keep up with all testing and phases of development, as well as utilizing the tutorial videos from my previous classes and those that my teammates have provided to assist me.<br>
 **Were there any tools or techniques that you did not find helpful in the success of your project development? Why?**<br>
 Tyler: The ReadMe. The information in here is not readily available and is generally not convienant to access.<br>
-<br>
-Cat: I have the most issues with GitHub on my PC. I'm unable to access the website to do my work in Unreal Engine. I have the desktop version on my PC, but that still doesn't give me everything that I need to work properly. I have to use my laptop just to edit the README.
-
+Cat: I have the most issues with GitHub on my PC. I'm unable to access the website to do my work in Unreal Engine. I have the desktop version on my PC, but that still doesn't give me everything that I need to work properly. I have to use my laptop just to edit the README.<br>
 **How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?**<br>
 Tyler: I think mainly it was breaking down the requirements of the end project and deciding what we need from there then speaking about what we did in previous classes to stay organized.<br>
 Tony: We certainly communicated clearly with one another about our strengths and how we might tackle the project; which I think helped quite a bit in getting us on track and working on it quickly.<br>
-Cat: I believe we all were able to communicate how we felt about each role, and even offered assistance on certain things, if assistance is needed.
+Cat: I believe we all were able to communicate how we felt about each role, and even offered assistance on certain things, if assistance is needed.<br>
+Michael: We consistently communicate over the discord channel about each little step everyone of us take; whetehr it's adding a new feature, providing test results, or even just mentioning ideas. Doing allowed us to decide what would be implemented and the tasks in which we were assigned.
