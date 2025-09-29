@@ -74,6 +74,8 @@ UI Elements: Running game from start (menu), then interacting with the world (da
 **Pickups:**<br>
 Keycards: Complete(TB)<br>
 
+<hr>
+
 **Module Four Project Log - Team Reflection**<br>
 
 **What parts of the testing process did the team perceive to go well?**<br>
