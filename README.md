@@ -81,9 +81,8 @@ Keycards: Complete(TB)<br>
 **What parts of the testing process did the team perceive to go well?**<br>
 Tyler: General testing seemed to go fine in my opinion. We are bound to find bumps in the road but overall, we got things fixed up just fine.<br>
 Michael: There seemed to be little to no issues regarding merging branches. Similarly, all the desired features that have yet been implemented function properly and as desired.<br>
-Tony: Similar thoughts, as testing itself appears to have gone fairly well in finding things that either still need to be implemented or fixed for future release. <br>
-Cat: Testing seems to be going well so far. Everything is looking good so far.
-
+Tony: Similar thoughts, as testing itself appears to have gone fairly well in finding things that either still need to be implemented or fixed for future release.<br>
+Cat: Testing seems to be going well so far. Everything is looking good so far.<br>
 **How were bugs identified and corrected?**<br>
 Michael: While testing a simple animation for the doors, it would open initially when entering range, but soon stop working, then work again. I realized that I was trying to made two separate animative functions because of a previous, minor issue (so I was testing what went wrong): one for opening when the player enters the range, and one for closing when the player leaves. After discovering the initial problem, I scrapped the latter and connected both events to the same Timeline function node. One event played it forward, and the other played it backward.<br>
 Tyler: While testing out and building the level design, I ran into an issue where nothing had collision detection. This was solved by finding the setting that determines the collision type. Normally, this defaults to simple collision, but was generating all geometry to no collision. Simple fix but a good experience in learning to not expect the engine to always behave the same way every time. Furthermore, another issue came from the character rebuilds that were done. Simple relinks to fix most issues but building the project failed because the old file was still present. I assumed that when the previous file was deleted in engine, it deleted it off my HDD as well but I think it remained on the project.<br>
