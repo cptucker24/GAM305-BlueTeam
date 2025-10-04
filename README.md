@@ -115,21 +115,27 @@ Communication via Discord and Tracability Matrix under "Test Plan" sheet.
 ### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
 **Tyler:** Development of the level design went well. I spent a lot more time making the level flow and used lighting to help direct the player. I still have a bit more to do to meet minimum requirements for the final submission.<br>
 **Michael:** Pertaining to the build's textures, I was able to create a "Master Material" that allowed any instance derived from it to be modified in every aspect. It has a lot of benefits and allows each member to do their own thing based on a single material blueprint.<br>
+**Tony:** I would say much of the plan went fairly well from what I could tell, other than myself missing or forgetting to change a few minor menu adjustments that I should have handled previously. Not as many bugs popped up as I expected during the whole process, which helped things move fairly smoothly.<br>
 
 ### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 **Tyler:** We have a lot more to implement and time is closing in on us. I feel like a lot more could have been done earlier so we can balance out for the final product better.<br>
 **Michael:** Since the integration from Quixel Bridge to Fab, I have had fewer options to use free meshes and textures for the levels and assets. While I was able to make do for some walls, floors, and whatnot, I am still searching for good character/enemy meshes appropriate for the build.<br>
+**Tony:** Being unable to implement as much as I’d like to in the short time we had/have left. There were/are multiple factors that come into play, and forgetting to add or implement small details in timely manner can be tough.<br>
 
 ### How were the previous evaluations integrated into this latest stage?
 **Tyler:** If this is referring to feedback provided, I listened by changing the entire level and making it more directed and easier to navigate. Otherwise, most things were implemented from the previous installment. It was just moved around a bit.<br>
+**Tony:** Also looking at the feedback, I realized how important it is to double check certain elements are working properly before final submission, even when already checked.<br>
 
 ### What would you do differently to improve the collaboration or development process?
 **Tyler:** I'd like a more detailed gameplan for things. More definitive and cohesive vision between everyone earlier on but given the time frame of the class, it isn't bad.<br>
 **Michael:** The biggest problem, I think, is time and general availability. Each week someone has something going on which deducts time that could be used for development. As long as we can all utilize our time and plan our tasks (similar to Tyler's response), we could continue efficiently.<br>
+**Tony:** Would agree with others, that having a detailed plan and availability certainly play a large role in tackling a group project, be it large or small. It is far too easy to fall into project/game breaking pitfalls that can hold up the projects progress.<br>
 
 ### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 **Tyler:** I still find the matrix to be underutilized and the ReadMe to be too crowded to find information quickly.<br>
+**Tony:** I cannot think of any tools we did not attempt to utilize, either out of not knowing, or lack of experience. That said, I would fully agree with Tyler’s statement, in that some tools could and should be utilized much more frequently.<br>
 
 ### Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
 **Tyler:** I would say we are half way between Alpha and Beta. If Beta is defined as having assets, mechanics and level(s) fully defined, then we aren't quite there. We are close to Beta, however. For the schedule, we have about 2 weeks to finish everything up.<br>
-**Michael:** I agree we are about halfway, more or less, of what we are trying to accomplish in terms of playability and it must be finsihed within 2 more weeks.
+**Michael:** I agree we are about halfway, more or less, of what we are trying to accomplish in terms of playability and it must be finsihed within 2 more weeks.<br>
+**Tony:** Also in agreement, that we have a long ways to go before completion. With so much to be done, I would like to think we will be fine in the end, but it’s hard to say at the moment. Though with some parts of the game being mostly complete, this opens time for others (like myself) to help in places others might need.<br>
