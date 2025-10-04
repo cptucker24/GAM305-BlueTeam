@@ -108,16 +108,16 @@ Michael: We consistently communicate over the discord channel about each little 
 <br><br><br>
 **Module five project log - Team Reflection**
 <br><br>
-**What parts of the plan did the team perceive to go well in relation to the last stage evaluation?**<br>
-Tyler: Development of the level design went well. I spent a lot more time making the level flow and used lighting to help direct the player.<br>
+**What parts of the plan did the team perceive to go well in relation to the last stage evaluation?** <br>
+Tyler: Development of the level design went well. I spent a lot more time making the level flow and used lighting to help direct the player. I still have a bit more to do to meet minimum requirements for the final submission.<br>
 <br>
-**What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?**<br>
+**What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?** <br>
 Tyler: We have a lot more to implement and time is closing in on us. I feel like a lot more could have been done earlier so we can balance out for the final product better.<br>
-<br>**How were the previous evaluations integrated into this latest stage?**<br>
+<br>**How were the previous evaluations integrated into this latest stage?** <br>
 Tyler: If this is referring to feedback provided, I listened by changing the entire level and making it more directed and easier to navigate. Otherwise, most things were implemented from the previous installment. It was just moved around a bit.<br>
-<br>**What would you do differently to improve the collaboration or development process?**<br>
+<br>**What would you do differently to improve the collaboration or development process?** <br>
 Tyler:I'd like a more detailed gameplan for things. More definitive and coheisive vision between everyone earlier on but given the time frame of the class, it isn't bad.<br>
-<br>**Were there any tools or techniques that you did not find helpful in the success of your project development? Why?**<br>
+<br>**Were there any tools or techniques that you did not find helpful in the success of your project development? Why?** <br>
 Tyler:I still find the matrix to be underutilized and the ReadMe to be too crowded to find information quickly.<br>
-<br>**Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.**<br>
-Tyler: <br>
+<br>**Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.** <br>
+Tyler: I would say we are half way between Alpha and Beta. If Beta is defined as having assets, mechanics and level(s) fully defined, then we aren't quite there. We are close to Beta, however. For the schedule, we have about 2 weeks to finish everything up. <br>
