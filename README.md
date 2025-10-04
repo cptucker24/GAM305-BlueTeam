@@ -14,14 +14,14 @@ Alpha Stage due: Sept 28th
 
 Beta Stage due: N/A
 
-## Roles<br>
+### Roles<br>
 Lead: Catarena "Cat" Tucker<br>
 Programmer: Catarena "Cat" Tucker<br>
 Artist: Michael McCallister<br>
 Level Design: Tyler Banes<br>
 UI/UX: Anthony (Tony) Domine
 
-## Team Communication Preferences<br>
+### Team Communication Preferences<br>
 Tyler B: Text<br>
 Tony D: Text/Voice<br>
 Cat T: Text/Voice<br>
