@@ -145,3 +145,15 @@ Communication via Discord and Tracability Matrix under "Test Plan" sheet.
 **Michael:** I agree we are about halfway, more or less, of what we are trying to accomplish in terms of playability and it must be finsihed within 2 more weeks.<br>
 **Tony:** Also in agreement, that we have a long ways to go before completion. With so much to be done, I would like to think we will be fine in the end, but it’s hard to say at the moment. Though with some parts of the game being mostly complete, this opens time for others (like myself) to help in places others might need.<br>
 **Cat:** I agree wuth the others with the project being halfway. I do plan to work more on the coding side, or more with the blueprint nodes, on the Player and AI characters.<br>
+<br><br>
+**Module Six Reflection**<br>
+**What parts of the plan did the team perceive to go well in relation to the last stage evaluation?** <br>
+Tyler:<br>
+**What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?** <br>
+Tyler:<br>
+**How were the previous evaluations integrated into this latest stage?** <br>
+Tyler:<br>
+**What would you do differently to improve the collaboration or development process?** <br>
+Tyler:<br>
+**Were there any tools or techniques that you did not find helpful in the success of your project development? Why?** <br>
+Tyler:<br>
