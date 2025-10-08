@@ -148,12 +148,12 @@ Communication via Discord and Tracability Matrix under "Test Plan" sheet.
 <br><br>
 **Module Six Reflection**<br>
 **What parts of the plan did the team perceive to go well in relation to the last stage evaluation?** <br>
-Tyler:<br>
+Tyler: As long as everything is completed, that's all I care about and that we pass the class. <br>
 **What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?** <br>
-Tyler:<br>
+Tyler: Too much rush. The wrap up phase shouldn't fall into crunch time if all was planned well. Part of this lands on me for informing the group the final upload was Week 7. Technically, this is true, but the rubric for Week 6 also states it is the final upload. That's super confusing. <br>
 **How were the previous evaluations integrated into this latest stage?** <br>
-Tyler:<br>
+Tyler: Things were more complete and the game functions more like a game now. <br>
 **What would you do differently to improve the collaboration or development process?** <br>
-Tyler:<br>
+Tyler:More communication and organization. I feel we lacked direction and had to make an unnecessary rush at the end. There was a lot of basic functionalities that should've been among the first things placed in but were only added at the end. Things like that aid with the rest of the project. Once you have basic mechanics down, you can tune the rest of the game/level. Skipping that, we had to play more by ear in the remaining designs. <br>
 **Were there any tools or techniques that you did not find helpful in the success of your project development? Why?** <br>
-Tyler:<br>
+Tyler: If used fully, every tool could be very useful. But I think most of the struggles came from disjointed schedules and lack of a concrete foundation of a game plan for each phase. <br>
