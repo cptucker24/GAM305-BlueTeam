@@ -146,6 +146,8 @@ Communication via Discord and Tracability Matrix under "Test Plan" sheet.
 **Tony:** Also in agreement, that we have a long ways to go before completion. With so much to be done, I would like to think we will be fine in the end, but it’s hard to say at the moment. Though with some parts of the game being mostly complete, this opens time for others (like myself) to help in places others might need.<br>
 **Cat:** I agree wuth the others with the project being halfway. I do plan to work more on the coding side, or more with the blueprint nodes, on the Player and AI characters.<br>
 
+<hr>
+
 # Module Six Project Log - Team Reflection and Final Release
 
 ### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
