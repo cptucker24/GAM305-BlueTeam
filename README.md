@@ -145,15 +145,24 @@ Communication via Discord and Tracability Matrix under "Test Plan" sheet.
 **Michael:** I agree we are about halfway, more or less, of what we are trying to accomplish in terms of playability and it must be finsihed within 2 more weeks.<br>
 **Tony:** Also in agreement, that we have a long ways to go before completion. With so much to be done, I would like to think we will be fine in the end, but it’s hard to say at the moment. Though with some parts of the game being mostly complete, this opens time for others (like myself) to help in places others might need.<br>
 **Cat:** I agree wuth the others with the project being halfway. I do plan to work more on the coding side, or more with the blueprint nodes, on the Player and AI characters.<br>
-<br><br>
-**Module Six Reflection**<br>
-**What parts of the plan did the team perceive to go well in relation to the last stage evaluation?** <br>
-Tyler: As long as everything is completed, that's all I care about and that we pass the class. <br>
-**What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?** <br>
-Tyler: Too much rush. The wrap up phase shouldn't fall into crunch time if all was planned well. Part of this lands on me for informing the group the final upload was Week 7. Technically, this is true, but the rubric for Week 6 also states it is the final upload. That's super confusing. <br>
-**How were the previous evaluations integrated into this latest stage?** <br>
-Tyler: Things were more complete and the game functions more like a game now. <br>
-**What would you do differently to improve the collaboration or development process?** <br>
-Tyler:More communication and organization. I feel we lacked direction and had to make an unnecessary rush at the end. There was a lot of basic functionalities that should've been among the first things placed in but were only added at the end. Things like that aid with the rest of the project. Once you have basic mechanics down, you can tune the rest of the game/level. Skipping that, we had to play more by ear in the remaining designs. <br>
-**Were there any tools or techniques that you did not find helpful in the success of your project development? Why?** <br>
-Tyler: If used fully, every tool could be very useful. But I think most of the struggles came from disjointed schedules and lack of a concrete foundation of a game plan for each phase. <br>
+
+# Module Six Project Log - Team Reflection and Final Release
+
+### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+**Tyler:** As long as everything is completed, that's all I care about and that we pass the class.<br>
+**Michael:** As the Lead Artist, defining textures and being able to create a master material for every instance gave me no issues, and it was probably the most ambitious part of my role. Granted, it's not complex logic, but there were a lot of factors that went into creating a granular feature for anyone to quickly instantiate.<br>
+
+### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+**Tyler:** Too much rush. The wrap up phase shouldn't fall into crunch time if all was planned well. Part of this lands on me for informing the group the final upload was Week 7. Technically, this is true, but the rubric for Week 6 also states it is the final upload. That's super confusing.<br>
+**Michael:** I agree with "too much rush." It seemed there was always _something_ going wrong with somebody's device, merge-ability, or bugs in general. Nonehtheless, most of it is patched, but these factors really slow down any progress.<br>
+
+### How were the previous evaluations integrated into this latest stage?
+**Tyler:** Things were more complete and the game functions more like a game now.<br>
+**Michael:** Everybody has been collaborating to focus up and finish any & all incomplete features.<br>
+
+### What would you do differently to improve the collaboration or development process?
+**Tyler:** More communication and organization. I feel we lacked direction and had to make an unnecessary rush at the end. There was a lot of basic functionalities that should've been among the first things placed in but were only added at the end. Things like that aid with the rest of the project. Once you have basic mechanics down, you can tune the rest of the game/level. Skipping that, we had to play more by ear in the remaining designs.<br>
+**Michael:** Agreed. We did not really have a "plan," if you will, and mostly developed prompted features instead of coursing through a specific strategy.<br>
+
+### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+**Tyler:** If used fully, every tool could be very useful. But I think most of the struggles came from disjointed schedules and lack of a concrete foundation of a game plan for each phase.<br>
