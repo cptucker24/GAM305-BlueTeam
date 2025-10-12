@@ -116,26 +116,66 @@ Communication via Discord and Tracability Matrix under "Test Plan" sheet.
 **Tyler:** Development of the level design went well. I spent a lot more time making the level flow and used lighting to help direct the player. I still have a bit more to do to meet minimum requirements for the final submission.<br>
 **Michael:** Pertaining to the build's textures, I was able to create a "Master Material" that allowed any instance derived from it to be modified in every aspect. It has a lot of benefits and allows each member to do their own thing based on a single material blueprint.<br>
 **Tony:** I would say much of the plan went fairly well from what I could tell, other than myself missing or forgetting to change a few minor menu adjustments that I should have handled previously. Not as many bugs popped up as I expected during the whole process, which helped things move fairly smoothly.<br>
+**Cat:** Player and AI characters turned out okay. Worked a bit on the respawn and respawn points for both player and AI characters as well. Didn't see many bugs in the program. Everyone is doing a great job.<br>
 
 ### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 **Tyler:** We have a lot more to implement and time is closing in on us. I feel like a lot more could have been done earlier so we can balance out for the final product better.<br>
 **Michael:** Since the integration from Quixel Bridge to Fab, I have had fewer options to use free meshes and textures for the levels and assets. While I was able to make do for some walls, floors, and whatnot, I am still searching for good character/enemy meshes appropriate for the build.<br>
 **Tony:** Being unable to implement as much as I’d like to in the short time we had/have left. There were/are multiple factors that come into play, and forgetting to add or implement small details in timely manner can be tough.<br>
-
+**Cat:** I would say time is a huge factor for this group project. We have to meet the deadlines, just like we would in an actual gaming company. Though we may not have much time to meet certain deadlines, we still work hard and communicate with each other.<br
+>
 ### How were the previous evaluations integrated into this latest stage?
 **Tyler:** If this is referring to feedback provided, I listened by changing the entire level and making it more directed and easier to navigate. Otherwise, most things were implemented from the previous installment. It was just moved around a bit.<br>
 **Tony:** Also looking at the feedback, I realized how important it is to double check certain elements are working properly before final submission, even when already checked.<br>
+**Cat:** Regarding the feedback, I did take the advice on playing one of my favorite games for 10 minutes to understand the objectives of what the player character should do, which is something I did this week in my other gaming class.<br>
 
 ### What would you do differently to improve the collaboration or development process?
 **Tyler:** I'd like a more detailed gameplan for things. More definitive and cohesive vision between everyone earlier on but given the time frame of the class, it isn't bad.<br>
 **Michael:** The biggest problem, I think, is time and general availability. Each week someone has something going on which deducts time that could be used for development. As long as we can all utilize our time and plan our tasks (similar to Tyler's response), we could continue efficiently.<br>
 **Tony:** Would agree with others, that having a detailed plan and availability certainly play a large role in tackling a group project, be it large or small. It is far too easy to fall into project/game breaking pitfalls that can hold up the projects progress.<br>
+**Cat:** Time, availability between team members, and communication. We communicate fairly well between each other, but we also have things to do outside of our project as well, and that's understandable.<br>
 
 ### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 **Tyler:** I still find the matrix to be underutilized and the ReadMe to be too crowded to find information quickly.<br>
 **Tony:** I cannot think of any tools we did not attempt to utilize, either out of not knowing, or lack of experience. That said, I would fully agree with Tyler’s statement, in that some tools could and should be utilized much more frequently.<br>
+**Cat:** I agree with Tyler with the traceability matrix not being utilized enough, and I'm guilty of not utilizing it. As for the README, I'm still not familiar with it, so I end up forgetting to update my portion for thie project every single week.<br>
 
 ### Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
 **Tyler:** I would say we are half way between Alpha and Beta. If Beta is defined as having assets, mechanics and level(s) fully defined, then we aren't quite there. We are close to Beta, however. For the schedule, we have about 2 weeks to finish everything up.<br>
 **Michael:** I agree we are about halfway, more or less, of what we are trying to accomplish in terms of playability and it must be finsihed within 2 more weeks.<br>
 **Tony:** Also in agreement, that we have a long ways to go before completion. With so much to be done, I would like to think we will be fine in the end, but it’s hard to say at the moment. Though with some parts of the game being mostly complete, this opens time for others (like myself) to help in places others might need.<br>
+**Cat:** I agree wuth the others with the project being halfway. I do plan to work more on the coding side, or more with the blueprint nodes, on the Player and AI characters.<br>
+
+<hr>
+
+# Module Six Project Log - Team Reflection and Final Release
+
+### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+**Tyler:** As long as everything is completed, that's all I care about and that we pass the class.<br>
+**Michael:** As the Lead Artist, defining textures and being able to create a master material for every instance gave me no issues, and it was probably the most ambitious part of my role. Granted, it's not complex logic, but there were a lot of factors that went into creating a granular feature for anyone to quickly instantiate.<br>
+**Cat:** I think this stage went well due to the fact that we all basically worked as a team to make sure everything was working properly.<br>
+**Tony:** In the last stage evaluation, I would say most things seemed to go fairly well. There were only a few minor hiccups that were delt with, generally after turning to resources or the like.<br>
+
+### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+**Tyler:** Too much rush. The wrap up phase shouldn't fall into crunch time if all was planned well. Part of this lands on me for informing the group the final upload was Week 7. Technically, this is true, but the rubric for Week 6 also states it is the final upload. That's super confusing.<br>
+**Michael:** I agree with "too much rush." It seemed there was always _something_ going wrong with somebody's device, merge-ability, or bugs in general. Nonehtheless, most of it is patched, but these factors really slow down any progress.<br>
+**Cat:** I agree with the rushing as well. We only had so much time to finish this project before the deadline.<br>
+**Tony:** While I would agree with the rush to an extent, everyone had the same ability to look at when each stage is due and caught us all off guard. I believe this was due to most past courses having their finals due on the 7th rather than 6th. Aside from this, I felt during there could have been more done during the previous weeks on all fronts, to make it not feel like a giant crunch or rush at the end.<Br>
+
+
+### How were the previous evaluations integrated into this latest stage?
+**Tyler:** Things were more complete and the game functions more like a game now.<br>
+**Michael:** Everybody has been collaborating to focus up and finish any & all incomplete features.<br>
+**Cat:** Everyone came together to work on this project in an effective manner.<br>
+**Tony:** Much like others mentioned, we took what was completed or needed to be done previously, and worked to push the rest out at the end.<br>
+
+### What would you do differently to improve the collaboration or development process?
+**Tyler:** More communication and organization. I feel we lacked direction and had to make an unnecessary rush at the end. There was a lot of basic functionalities that should've been among the first things placed in but were only added at the end. Things like that aid with the rest of the project. Once you have basic mechanics down, you can tune the rest of the game/level. Skipping that, we had to play more by ear in the remaining designs.<br>
+**Michael:** Agreed. We did not really have a "plan," if you will, and mostly developed prompted features instead of coursing through a specific strategy.<br>
+**Cat:** I do agree with Tyler with communication, organization, and implementing a plan. I would also like to add time as well.<br>
+**Tony:** I fully agree with Tyler as well, in that a lot of functions, design, and other things that could and likely should have been done in previous weeks; seemed to be put on the backburner til the last minute when all realized the final product was due this week. As for what I would do differently, I am not sure if there is more I could have done, other than jump in and take-over doing certain parts, rather than just asking if help was needed multiple times in previous weeks.<br>
+
+### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+**Tyler:** If used fully, every tool could be very useful. But I think most of the struggles came from disjointed schedules and lack of a concrete foundation of a game plan for each phase.<br>
+**Cat:** All of the tools and resources that I used were very helpful. Though things were somewhat all over the place, this team still came together to make something work.<br>
+**Tony:** As previously mentioned, many of the tools were quite helpful when utilized. Communication being one, while we were quite good at keeping in contact, understanding the full scope of the project and ensuring everything would be taken care of in a timely manner was lacking. This likely tying into keeping everyone on track for deadlines, reading/understanding the announcements & requirements for each module; we seemed to drop the ball on these towards the end.<br>
